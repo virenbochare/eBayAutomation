@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTnslWVvAM5Fh446q5HB9YuQxbfSFy7cSJUyjuhtK3vn/8O4joQPEK1ZoNoNCJ+6HTHLXgaJsDF2jN4IX08w/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viren\\source\\repos\\AdvarraUIAutomation\\AdvarraTests\\AdvarraTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viren\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\viren\\.nuget\\packages\\microsoft.codecoverage\\17.7.2\\microsoft.codecoverage.17.7.2.nupkg.sha512",
+    "C:\\Users\\viren\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\viren\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.2\\microsoft.net.test.sdk.17.7.2.nupkg.sha512",
+    "C:\\Users\\viren\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\viren\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\viren\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\viren\\.nuget\\packages\\selenium.support\\4.13.1\\selenium.support.4.13.1.nupkg.sha512",
+    "C:\\Users\\viren\\.nuget\\packages\\selenium.webdriver\\4.13.1\\selenium.webdriver.4.13.1.nupkg.sha512",
+    "C:\\Users\\viren\\.nuget\\packages\\selenium.webdriver.chromedriver\\117.0.5938.9200\\selenium.webdriver.chromedriver.117.0.5938.9200.nupkg.sha512",
+    "C:\\Users\\viren\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

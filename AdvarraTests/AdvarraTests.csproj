@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+
+		<IsPackable>false</IsPackable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+		<PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="NUnit" Version="3.13.3" />
+		<PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.7.2" />
+		<PackageReference Include="Selenium.Support" Version="4.13.1" />
+		<PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="117.0.5938.9200" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\UIAutomationLibrary\UIAutomationLibrary.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Configs\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Update="Configs\TestConfig.json">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+		<None Update="TestData\TestData.json">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+</Project>
