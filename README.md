@@ -29,10 +29,9 @@ EbayAutomation repository consists of one AdvarraUIAutomation solution with two 
             •	Item
   	
 3.	AdvarraTests Project – This project consists of the setup required for a test case. It also consists of test data required for testing and also the test scripts with all the steps.
-   
-   a.	Configs: It consists of a TestConfig Json file which has a main url and Configuration a test needs to be triggered on.
-   b.	TestData: It consists of the test data required by a single test case. It can also consist of a common test data that can be used by different test cases.
-   c.	Tests: It consists of a test file with test methods. 
+		   a.	Configs: It consists of a TestConfig Json file which has a main url and Configuration a test needs to be triggered on.
+		   b.	TestData: It consists of the test data required by a single test case. It can also consist of a common test data that can be used by different test cases.
+		   c.	Tests: It consists of a test file with test methods. 
 
 
 Note: Currently Large Viewport is implemented. There is still scope for improvement. 
